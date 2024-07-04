@@ -1,2 +1,3 @@
 A second file
-Second test
+With another test line
+
